@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "titulo": "Pavê de Pêssego",
+        "imagem": "assets/pessego.png",
+        "preparo": "Em uma panela, misture o Leite MOÇA, o Leite NINHO, as gemas e o amido de milho e leve ao fogo, mexendo sempre até engrossar. Deixe esfriar e reserve. <br>Passe rapidamente parte dos biscoitos na calda do pêssego, acomodando-os no fundo de um refratário retangular (20 x 30 cm). <br> Distribua metade do Creme e metade dos pêssegos picados. <br> Repita a camada de biscoitos e coloque o restante do Creme e dos pêssegos. <br> Decore com as raspas de Chocolate GALAK e com fatias de pêssegos. <br>Leve à geladeira até o momento de servir.",
+        "ingredientes":["1 Lata Leite MOÇA1 Lata Leite MOÇA® 395g", "2 xícaras (chá) de Leite Líquido NINHO® Forti+ Integral","2 gemas","2 colheres (sopa) de amido de milho","1 pacote de biscoito champanhe","meia xícara (chá) da calda do pêssego","1 lata de pêssego em calda picado","100 g de raspas de Chocolate GALAK®"]
+    },
+    {
+        "id": 2,
+        "titulo": "Milkshake de Nescau",
+        "imagem": "assets/nescau.png",
+        "preparo": "Em um liquidificador bata todos os ingredientes muito bem. <br> Decore um copo alto com a calda, coloque o Milkshake e decore com o chantilly batido, o NESCAU Ball e 1 Cookie Nescau. Sirva gelado.",
+        "ingredientes":["2 bolas de NESTLÉ® Sorvete de Creme (80 g)","150 ml de Leite Líquido NINHO® Forti+ Integral","2 colheres (sopa) de NESCAU®","2 colheres (sopa) de NESCAU®","meio pacote de NESCAU® Ball","2 cookies NESCAU®","1 colher (sopa) de calda de chocolate ou caramelo","Chantilly batido","meio pacote de NESCAU® Ball","2 cookies NESCAU®"]
+    },
+    {
+        "id": 3,
+        "titulo": "Bombom trufado de limão",
+        "imagem": "assets/limao.png",
+        "preparo": "Em uma panela em banho-maria derreta o Chocolate Branco GAROTO com a manteiga. <br> Retire do banho-maria, junte o NESTLÉ Creme de Leite e mexa bem até obter uma massa homogênea. <br> Adicione o suco de limão e o rum, misture bem e leve à geladeira por cerca de 2 horas. <br> Despeje o Chocolate Meio Amargo Garoto já temperado em forminhas próprias para bombons recheados e vire para escorrer o excesso. Raspe a superfície com uma espátula e espere secar (se necessário leve à geladeira por alguns minutos). <br> Coloque o recheio e cubra com o Chocolate restante. Raspe a superfície com uma espátula, espere secar e desenforme. Sirva.",
+        "ingredientes":["500 g de Chocolate Branco GAROTO®","100 g de manteiga sem sal","1 lata de NESTLÉ® Creme de Leite","meia xícara (chá) de suco de limão","2 colheres (sopa) de rum","400 g de Chocolate Meio Amargo GAROTO®"]
+    }
+]
+
+

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <script src="ordenando.js"></script>
+    <title>Ordenando</title>
+    <style>
+        .title{
+            color: black;
+            font-size: 40px;
+            margin-top: 20px;
+        }
+        button{
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1  class="title">Ordenando Valores</h1>
+    </div>
+
+    <div class="container form-group">
+        <label for="">Valor</label>
+        <input class="form-control " type="number" id="valor">
+        <button class="btn btn-primary" onclick="add()">Adicionar</button>
+        <hr class="col-12">
+    
+        <select class="container form-control" name="" id="select">
+        <option value="bubbleSort" selected>Bubble Sort</option>
+        <option value="selectionSort">Selection Sort</option>
+        <option value="quickSort">Quick Sort</option>
+        </select>
+        <button class="btn btn-primary" onclick="ordenar()">Ordenar</button>
+        <button class="btn btn-primary" onclick="misturar()">Misturar</button>
+        <hr class="col-12">
+        <ul id="valores"></ul>
+    </div>
+    
+ 
+
+</body>
+</html>
